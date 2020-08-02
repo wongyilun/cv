@@ -7,7 +7,7 @@
 margin: 100px 0;
 }
 .bottom-container {
-background-color: #66bfbf;
+background-color: #66BFBF;
 padding: 50px 0 20px;
 }
 body{
@@ -69,9 +69,9 @@ a:hover {
 }
 .even-row {
   float:right;
-  margin-right: 30px;
+  margin-left: 30px;
 }
-.p {
+p {
   line-height: 2;
 }
 hr {
@@ -104,7 +104,14 @@ hr {
 	background-color:#2bc4ad;
 }
 .copyright {
-  color: #eaf6f6;
+  font-family: 'Montserrat', sans-serif;
+  color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
+}
+.attri {
+margin: 10px 20px;
+}
+.sunset {
+  margin: 0;
 }
