@@ -7,7 +7,7 @@
 margin: 100px 0;
 }
 .bottom-container {
-background-color: #66bfbf;
+background-color: #e1ffc2;
 padding: 50px 0 20px;
 }
 body{
@@ -111,4 +111,7 @@ hr {
 }
 .attri {
 margin: 10px 20px;
+}
+.sunset {
+  margin: 0;
 }
